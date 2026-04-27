@@ -1,0 +1,4 @@
+ncnn
+numpy
+opencv-python
+picamera2
